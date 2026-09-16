@@ -1,4 +1,4 @@
-# Do Healthier Recipes Take Longer? An Analysis of Fitness-Oriented Nutrition and Preparation Time
+# [Do Healthier Recipes Take Longer? An Analysis of Fitness-Oriented Nutrition and Preparation Time](https://trstewart-max.github.io/nutrition-prep-time/)
 
 ## Introduction
 
